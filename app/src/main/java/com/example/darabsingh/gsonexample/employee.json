@@ -1,0 +1,27 @@
+{
+  "address": {
+    "city": "Jaipur",
+    "country": "India"
+  },
+  "mail": "darab.singh93@gmail.com",
+  "firstName": "Darab",
+  "family": [
+    {
+      "role": "Father",
+      "age": 50
+    },
+    {
+      "role": "Mother",
+      "age": 45
+    },
+    {
+      "role": "Brother",
+      "age": 27
+    },
+    {
+      "role": "Sister",
+      "age": 24
+    }
+  ],
+  "age": 22
+}
